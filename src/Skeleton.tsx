@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyledSkeleton } from './SkeletonStyle';
-import { THEME } from '../../../assets/style/theme';
+import { THEME } from 'path-of-styled-components-theme-goes-here';
 
 interface SkeletonProps {
   width?: string;
